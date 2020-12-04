@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/08-time-network-analysis.git/master)
 
-Today's session will introduce techniques to handle time series data. We will have a look at optimisation and genetic algorithms (GA), linear autoregressive models (AR), local constant models, and nonlinear global models. We will also discuss the complex network approach to time series data and how to use network properties to get insights about your data.  
+The session for today will introduce techniques to handle time series data. We will have a look at optimisation and genetic algorithms (GA), linear autoregressive models (AR), local constant models, and nonlinear global models. We will also discuss the complex network approach to time series data and how to use network properties to get insights about your data.  
 
 You should aim to understand:
 
